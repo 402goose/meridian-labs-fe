@@ -1,6 +1,6 @@
 # Meridian Labs Landing Page
 
-A sophisticated, research-backed landing page for Meridian Labs, built with Next.js, Tailwind CSS v4, and Framer Motion.
+landing page for Meridian Labs, built with Next.js, Tailwind CSS v4, and Framer Motion.
 
 ## 🚀 Getting Started
 
